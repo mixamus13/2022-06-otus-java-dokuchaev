@@ -9,6 +9,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/hw-06-annotation" />
           </set>
         </option>
       </GradleProjectSettings>
